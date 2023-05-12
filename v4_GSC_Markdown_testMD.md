@@ -291,6 +291,7 @@ ggplot(data=figure_DID_d)+
          linetype= guide_legend(byrow = T, order = 2, nrow = 2))
 ```
 <br>
+<img src="./plots/figure_limit.png" width="600">
 
 ### Figure 3: Visual diagnostic test
 
