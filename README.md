@@ -6,6 +6,7 @@ Following we describe the uploaded files.
 Note: The data from folder "Data_1" and "Data_2" are just relevant for the descriptive part.
 * The "Data_1" folder entails data about the used firms fundamentals 
 * The "Data_2" folder entails data about the firms sector affiliation and assignment to treatment or control group
+* The "plots" folder entails the plots created 
 * The .R file entails the used code for the analysis
 * The .Rmd entails the 
 * The .Rmd file entails the code for the markdown
