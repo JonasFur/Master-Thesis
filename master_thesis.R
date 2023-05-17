@@ -1,7 +1,7 @@
 
 #Author: Jonas Furrer
 #E-Mail: jonas.furrer@stud.unilu.ch
-#Date: 16.05.2023
+#Date: 17.05.2023
 
 #Loading packages
 library(PerformanceAnalytics)
