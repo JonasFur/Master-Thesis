@@ -1,5 +1,9 @@
 # Master-Thesis
 The purpose of this repository is to ensure the replicability of the master thesis “Analyzing the Indexing Effect on Stock Returns – Evidence from the German Stock Market” written by Jonas Furrer.
+
+To automate the replication of the analysis, download the whole repository to your local device. Make sure you set first the R-directory to the relevant file. 
+
+Note: first unzip the folder and data-files if necessary.
 ## Description of the uploaded files
 
 Note: The data from folder "Data_1" and "Data_2" are just relevant for the descriptive part.
